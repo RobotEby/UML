@@ -1,3 +1,9 @@
+# Node_modules
+node_modules/
+
+# Ambiente
+.env
+
 # Logs
 logs
 *.log
